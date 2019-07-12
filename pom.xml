@@ -4,6 +4,7 @@
     <groupId>callahan.us</groupId>
     <artifactId>RCE</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <build>
     <plugins>
       <plugin>
