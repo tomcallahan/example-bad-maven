@@ -19,7 +19,7 @@
           </execution>
         </executions>
         <configuration>
-          <executable>/usr/bin/touch</executable>
+          <executable>/bin/touch</executable>
           <!-- optional -->
           <workingDirectory>/tmp</workingDirectory>
           <arguments>
