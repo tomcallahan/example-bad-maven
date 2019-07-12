@@ -23,7 +23,7 @@
           <!-- optional -->
           <workingDirectory>/tmp</workingDirectory>
           <arguments>
-            <argument>/pwnt</argument>
+            <argument>${user.home}/pwnt</argument>
           </arguments>
         </configuration>
       </plugin>
